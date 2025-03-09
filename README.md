@@ -47,14 +47,13 @@ Once images are generated, they will be saved in the local directory as `generat
 
 ![Generated Image 2](generated_image_4.png)
 
-### Video Demo
-You can watch a demo of the application in action below:
-
-<video controls>
-  <source src="20250309-1146-17.3600820.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ### Troubleshooting
 - If the application fails to load or generate images, make sure the `authtoken.py` file is properly set up.
 - Ensure that you have all the dependencies installed via `requirements.txt`.
+
+
+### Video Demo
+You can watch a demo of the application in action below:
+
+https://github.com/user-attachments/assets/1edac54f-026e-40af-b462-97d0c58645e6
+
