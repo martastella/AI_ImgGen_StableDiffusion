@@ -1,0 +1,39 @@
+📌 1. Stable Diffusion v1.4 (CompVis/stable-diffusion-v1-4)
+👉 Strengths: General AI art, decent detail but limited resolution.
+🔹 Best for: Simple scenes, landscapes, and concept art.
+
+🔹 Prompts:
+1️⃣ "A mystical castle floating above the clouds, illuminated by a golden sunset, cinematic lighting, fantasy art, highly detailed"
+2️⃣ "Cyberpunk city skyline at night, neon lights, rain-soaked streets, futuristic atmosphere, Blade Runner aesthetic"
+3️⃣ "A cozy winter cabin in the woods, soft snowfall, warm glowing lights from the windows, ultra-detailed painting"
+4️⃣ "A majestic lion with a flowing golden mane, photorealistic, intricate fur details, hyper-realistic texture"
+
+📌 2. Stable Diffusion 2.1 (stabilityai/stable-diffusion-2-1)
+👉 Strengths: Improved realism, better textures, higher resolution (768x768).
+🔹 Best for: Realism, landscapes, sci-fi, concept art.
+
+🔹 Prompts:
+1️⃣ "A breathtaking view of the Grand Canyon at sunrise, ultra-detailed rock formations, warm golden hues, hyper-realistic"
+2️⃣ "Futuristic space colony on Mars, domed habitats, astronauts in high-tech suits, red planet terrain, sci-fi concept art"
+3️⃣ "A dark gothic cathedral, towering stained glass windows, eerie candlelit atmosphere, medieval fantasy setting"
+4️⃣ "A hyper-realistic close-up of an owl with piercing amber eyes, detailed feathers, photorealistic wildlife photography"
+
+📌 3. Stable Diffusion XL (stabilityai/stable-diffusion-xl-base-1.0)
+👉 Strengths: Best for photorealism, portraits, ultra-detailed images.
+🔹 Best for: Professional photography, cinematic renders, and high-definition images.
+
+🔹 Prompts:
+1️⃣ "A 1940s noir detective sitting in a dimly lit bar, cigarette smoke swirling, cinematic lighting, ultra-photorealistic"
+2️⃣ "A beautiful woman in a flowing red dress standing on a Parisian balcony at night, romantic lighting, 8K detail"
+3️⃣ "A golden retriever puppy playing in a field of lavender, sunlight filtering through the flowers, highly detailed fur"
+4️⃣ "A luxury sports car speeding through a futuristic neon city, motion blur, reflections, hyper-detailed 8K render"
+
+📌 4. DreamShaper v7 (Lykon/dreamshaper-7)
+👉 Strengths: Best for fantasy, anime, digital paintings, and dreamy aesthetics.
+🔹 Best for: Stylized images, fantasy worlds, anime-style characters.
+
+🔹 Prompts:
+1️⃣ "A celestial goddess with flowing silver hair, glowing blue eyes, standing in a galaxy of swirling nebulae, ethereal fantasy art"
+2️⃣ "A fierce warrior elf with emerald green armor, standing in an enchanted forest, ultra-detailed fantasy illustration"
+3️⃣ "A cyberpunk samurai with a neon katana, standing on a rooftop, rain and holograms reflecting off his armor, anime-style"
+4️⃣ "A whimsical fairytale village under a pink sky, floating islands, cozy wooden cottages, dreamlike atmosphere, Ghibli-inspired"
