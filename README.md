@@ -43,13 +43,17 @@ This will open the GUI, where you can select models, input prompts, and generate
 ### Generated Files
 Once images are generated, they will be saved in the local directory as `generated_image_1.png`, `generated_image_2.png`, etc.
 
-![alt text](generated_image_2-1.png)
-![alt text](generated_image_4-1.png)
+![Generated Image 1](generated_image_2.png)
+
+![Generated Image 2](generated_image_4.png)
 
 ### Video Demo
 You can watch a demo of the application in action below:
 
-<video controls src="20250309-1146-17.3600820.mp4" title="Title"></video>
+<video controls>
+  <source src="20250309-1146-17.3600820.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Troubleshooting
 - If the application fails to load or generate images, make sure the `authtoken.py` file is properly set up.
